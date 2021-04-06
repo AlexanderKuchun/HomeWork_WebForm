@@ -1,1 +1,93 @@
+Веб-форма http://itcareer.pythonanywhere.com/
 
+
+
+1. Summary: опечатка в названии поля Surname
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/ 
+ER: поле для заполнения веб-формы имеет название Surname 
+AR: в поле для заполнения веб-формы пропущена буква n - имеет название Surame
+Attachments:
+
+2. Summary: слово Error повторяется дважды в сообщении об ошибке при нажатии кнопки Submit
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/ 
+ER: появляется сообщение об ошибке "Error: All Fields are Required"
+AR: Появляется сообщение об ошибке "Error: Error: All Fields are Required"
+Attachments:
+
+3. Summary: плейсхолдеры полей заканчиваются знаком препинания
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
+ER: плейсхолдеры полей веб-формы не должны заканчиваться знаком препинания
+AR: плейсхолдеры полей веб-формы заканчиваются знаком препинания "?"
+Attacments:
+
+4. Summary: не известна цель заполнения данной веб-формы
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: major
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
+ER: в названии веб-формы должно быть пояснение о цели ее заполнения
+AR: в названии веб-формы нет поясения о цели её заполнения
+Attacments:
+
+5. Summary: текст кнопки Submit смещен вправо
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
+ER: текст кнопки Submit в открывшейся веб-форме находится посередине
+AR: текст кнопки Submit в открывшейся веб-форме смещён вправо
+Attacments:
+
+6. Summary: веб-форма не содержит пользовательское соглашение
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: major
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
+ER: веб-форма должна содержать пользовательское согашение 
+AR: веб-форма не содержит пользовательское соглашение
+Attacments:
+
+7. Summary: веб-форма не имеет поля подтверждения пароля для проверки его безошибочного ввода
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
+ER: веб-форма имеет поле подтверждения пароля
+AR: веб-форма не имеет поле подтверждения пароля
+Attacments:
+
+8. Summary: веб-форма не содержит функцию, позволяющую видеть вводимые символы в поле Password
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
+ER: веб-форма имеет функцию, позволяющую видеть вводимые символы в поле Password
+AR: веб-форма не имеет функцию, позволяющую видеть вводимые символы в поле Password
+Attacments:
+
+9. Summary: отсутствует возможность быстрой регистрации с помощью аккаунтов других сервисов для быстрого доступа к ресурсам сайта
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
+ER: веб-форма предоставляет возможность быстрой регистрации с помощью аккаунтов других сервисов
+AR: веб-форма не предоставляет возможность быстрой регистрации с помощью аккаунтов других сервисов
+Attacments:
+
+10. Summary: в брузере мобильного устройства веб-форма выступает за рамки экрана
+Environment: Windows 10, Chrome v.89.0.4389.114
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
+ER: веб-форма адаптивна для браузера мобильных устройств
+AR: в брузере мобильного устройства веб-форма выступает за рамки экрана
+Attacments:
