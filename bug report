@@ -82,7 +82,7 @@ AR: веб-форма не предоставляет возможность б�
 Attacments:
 
 10. Summary: в брузере мобильного устройства веб-форма выступает за рамки экрана
-Environment: Windows 10, Chrome v.89.0.4389.114
+Environment: Redmi Note 7, Android 10, Chrome v.89.0.4389.114
 Severity: minor
 Version: 1
 STR: открыть веб-сайт http://itcareer.pythonanywhere.com/
