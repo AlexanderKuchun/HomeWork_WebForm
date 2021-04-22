@@ -1,6 +1,6 @@
 Веб-форма http://itcareer.pythonanywhere.com/
 
-1. Summary: опечатка в названии поля Surname
+1. Summary: пропущена буква "n" в названии поля Surname
 Environment: Windows 10, Chrome v.89.0.4389.114
 Severity: minor
 Version: 1
@@ -18,7 +18,7 @@ ER: появляется сообщение об ошибке "Error: All Fields
 AR: Появляется сообщение об ошибке "Error: Error: All Fields are Required"
 Attachments:
 
-3. Summary: плейсхолдеры полей заканчиваются знаком препинания
+3. Summary: плейсхолдеры полей заканчиваются знаком препинания "?"
 Environment: Windows 10, Chrome v.89.0.4389.114
 Severity: minor
 Version: 1
